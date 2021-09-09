@@ -4,7 +4,7 @@ body {
 }
 
 header {
-	border: 2px solid magenta;
+	/* border: 2px solid magenta; */
 	background: #f8f8f8;
 	position: fixed;
 	top: 0;
@@ -13,23 +13,24 @@ header {
 }
 
 .site-title {
-	border: 2px solid magenta;
+	/* border: 2px solid magenta; */
 	max-width: 50%;
 	margin: 0 auto;
 	text-align: center;
 }
 
 nav ul {
-	border: 2px solid magenta;
+	border: 1px solid magenta;
+	list-style: none;
+	display: flex;
 }
 
 nav li {
-
+	border: 2px dotted orange;
 }
 
 nav a {
-	color: red;
-	list-style: none;
+	color: 3px solid green;
 	text-decoration: none;
 }
 
