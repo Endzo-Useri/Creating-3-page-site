@@ -26,4 +26,5 @@ nav {
 li, a {
 	color: red;
 	list-style: none;
+	text-decoration: none;
 }
