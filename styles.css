@@ -3,8 +3,19 @@ body {
 	font-family: 'Ubuntu', sans-serif;
 }
 
+/* =================
+	 Typography
+	 ================= */
+
+h1 {
+	font-family: 'Lora', sans-serif;
+}
+
 header {
+	/* border: 2px solid magenta; */
 	text-align: center;
+	background: #f8f8f8;
+	padding: 2em 0;
 }
 
 nav ul {
