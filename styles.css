@@ -1,0 +1,28 @@
+body {
+	background: magenta;
+}
+
+header {
+	border: 2px solid magenta;
+	background: #f8f8f8;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+.site-title {
+	border: 2px solid magenta;
+	max-width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+nav {
+	border: 2px solid magenta;
+}
+
+li, a {
+	color: red;
+	list-style: none;
+}
