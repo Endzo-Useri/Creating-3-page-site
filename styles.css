@@ -19,12 +19,21 @@ header {
 	text-align: center;
 }
 
-nav {
+nav ul {
 	border: 2px solid magenta;
 }
 
-li, a {
+nav li {
+
+}
+
+nav a {
 	color: red;
 	list-style: none;
 	text-decoration: none;
+}
+
+nav a:hover,
+nav a:focus {
+
 }
