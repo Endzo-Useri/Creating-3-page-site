@@ -3,34 +3,20 @@ body {
 	font-family: 'Ubuntu', sans-serif;
 }
 
-header {
-	/* border: 2px solid magenta; */
-	background: #f8f8f8;
-	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-}
-
-.site-title {
-	/* border: 2px solid magenta; */
-	max-width: 50%;
-	margin: 0 auto;
-	text-align: center;
-}
-
 nav ul {
 	border: 1px solid magenta;
 	list-style: none;
+	padding: 0;
 	display: flex;
 }
 
 nav li {
 	border: 2px dotted orange;
+	margin: 0 1em;
 }
 
 nav a {
-	color: 3px solid green;
+	border: 3px solid green;
 	text-decoration: none;
 }
 
