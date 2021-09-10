@@ -26,8 +26,14 @@ h1 {
 	 Layout
 	 ================= */
 
+	 .container {
+		 width: 90%;
+		 max-width: 900px;
+		 border: 1px solid magenta;
+	 }
+
 header {
-	border: 2px solid magenta;
+	/* border: 2px solid magenta; */
 	text-align: center;
 	background: #f8f8f8;
 	padding: 2em 0;
