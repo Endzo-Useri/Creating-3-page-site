@@ -30,6 +30,7 @@ h1 {
 		 width: 90%;
 		 max-width: 900px;
 		 border: 1px solid magenta;
+		 margin: 0 auto;
 	 }
 
 header {
