@@ -33,6 +33,10 @@ h1 {
 		 margin: 0 auto;
 	 }
 
+	 .container-nav {
+		 display: flex;
+	 }
+
 header {
 	/* border: 2px solid magenta; */
 	text-align: center;
