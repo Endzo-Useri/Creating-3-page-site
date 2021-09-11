@@ -90,4 +90,8 @@ nav a:focus {
 	nav ul {
 		flex-direction: column;
 	}
+
+	nav li {
+		margin: .5em 0;
+	}
 }
