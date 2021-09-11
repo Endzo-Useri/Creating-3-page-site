@@ -37,16 +37,20 @@ h1 {
 	justify-content: space-between;
 }
 
-@media (max-width: 675px) {
-	.container-nav {
-	flex-direction: column; 
-	}
-}
-
 header {
 	/* border: 2px solid magenta; */
 	background: #f8f8f8;
 	padding: 2em 0;
+}
+
+@media (max-width: 675px) {
+	.container-nav {
+	flex-direction: column; 
+	}
+
+	header {
+		text-align: center;
+	}
 }
 
 /* Navigation */
@@ -80,4 +84,8 @@ nav a:focus {
 
 .current-page:hover {
 	color: #707070;
+}
+
+@media (max-width: 675px) {
+	
 }
