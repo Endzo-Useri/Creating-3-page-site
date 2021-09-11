@@ -87,5 +87,7 @@ nav a:focus {
 }
 
 @media (max-width: 675px) {
-	
+	nav ul {
+		flex-direction: column;
+	}
 }
