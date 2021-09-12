@@ -95,3 +95,11 @@ nav a:focus {
 		margin: .5em 0;
 	}
 }
+
+.container-main {
+	border: 2px solid peachpuff;
+}
+
+main {
+	border: 2px solid blue;
+}
