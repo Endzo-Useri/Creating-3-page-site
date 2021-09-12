@@ -23,6 +23,7 @@ h1 {
 
 a {
 	color: #1792d2;
+	font-weight: bolder;
 }
 
 a:hover,
@@ -31,7 +32,7 @@ a:focus {
 }
 
 strong {
-	
+	font-weight: 700;
 }
 
 /* h1 subtitle */
