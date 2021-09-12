@@ -98,8 +98,11 @@ nav a:focus {
 
 .container-main {
 	border: 2px solid peachpuff;
+	width: 90%;
+	margin: 1em auto;
 }
 
 main {
 	border: 2px solid blue;
+	margin: .5em;
 }
