@@ -33,8 +33,13 @@ h1 {
 }
 
 .article-read-more,
- {
+.article-info {
 	font-size: .875rem;
+}
+
+.article-read-more {
+	color: #1792d2;
+	text-decoration: none;
 }
 
 /* =================
