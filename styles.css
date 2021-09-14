@@ -85,6 +85,7 @@ strong {
 .container-flex {
 	/* border: 2px solid red; */
 	display: flex;
+	flex-direction: column;
 	justify-content: space-between;
 }
 
@@ -92,16 +93,7 @@ header {
 	/* border: 2px solid magenta; */
 	background: #f8f8f8;
 	padding: 2em 0;
-}
-
-@media (max-width: 675px) {
-	.container-nav {
-	flex-direction: column; 
-	}
-
-	header {
-		text-align: center;
-	}
+	text-align: center;
 }
 
 main {
