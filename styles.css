@@ -5,6 +5,12 @@ body {
 	font-weight: 300;
 }
 
+img {
+	max-width: 100%;
+	display: block;
+
+}
+
 /* =================
 	 Typography
 	 ================= */
@@ -96,6 +102,14 @@ header {
 	header {
 		text-align: center;
 	}
+}
+
+main {
+
+}
+
+aside {
+	
 }
 
 /* Navigation */
