@@ -96,12 +96,18 @@ header {
 	text-align: center;
 }
 
-main {
-	width: 75%;
-}
+@media (min-width: 675px) {
+	.container-flex {
+		flex-direction: row;
+	}
 
-aside {
-	width: 20%;
+	main {
+		width: 75%;
+	}
+
+	aside {
+		width: 20%;
+	}
 }
 
 /* Navigation */
