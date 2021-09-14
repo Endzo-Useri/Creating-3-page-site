@@ -164,6 +164,6 @@ main {
 
 .article-featured {
 	border-bottom: 1px solid #707070;
-	padding-bottom: 1em;
-	background: pink;
+	padding-bottom: 2em;
+	margin-bottom: 2em;
 }
