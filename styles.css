@@ -105,11 +105,11 @@ header {
 }
 
 main {
-
+	width: 75%;
 }
 
 aside {
-	
+	width: 20%;
 }
 
 /* Navigation */
