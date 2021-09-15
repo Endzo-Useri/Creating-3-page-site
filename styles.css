@@ -187,4 +187,8 @@ main {
 	.article-recent-main {
 		margin-top: -2.5em;
 	}
+
+	.article-info {
+		text-align: right;
+	}
 }
