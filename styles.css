@@ -183,8 +183,8 @@ main {
 	order: 1;
 }
 
-@media (min-width 500px) {
+@media (min-width: 500px) {
 	.article-recent-main {
-		/* margin-top: -2em; */
+		margin-top: -2.5em;
 	}
 }
