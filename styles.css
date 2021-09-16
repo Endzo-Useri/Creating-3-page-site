@@ -186,6 +186,14 @@ main {
 
 @media (min-width : 675px) {
 	.article-recent {
+		flex-direction: row;
+	}
+
+	.article-recent-main {
+
+	}
+
+	.article-recent-secondary {
 		
 	}
 }
