@@ -183,3 +183,9 @@ main {
 .article-recent-secondary {
 	order: 1;
 }
+
+@media (min-width : 675px) {
+	.article-recent {
+		
+	}
+}
