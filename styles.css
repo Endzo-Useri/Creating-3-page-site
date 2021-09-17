@@ -121,6 +121,8 @@ header {
 footer {
 	background: #143774;
 	color: #fff;
+	text-align: center;
+	padding: 3em 0;
 }
 
 @media (min-width: 675px) {
