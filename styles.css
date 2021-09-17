@@ -226,4 +226,6 @@ main {
 
 .sidebar-widget {
 	border: 1.4rem solid #efefef;
+	margin-bottom: 2em;
+	padding: 1em;
 }
