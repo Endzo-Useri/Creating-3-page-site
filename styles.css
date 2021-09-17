@@ -250,6 +250,11 @@ main {
 	margin-bottom: 1rem;
 }
 
+.widget-recent-post:last-child {
+	border: 0;
+	margin: 0;
+}
+
 .widget-image {
 	order: -1;
 }
