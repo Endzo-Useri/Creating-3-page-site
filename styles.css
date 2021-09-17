@@ -223,3 +223,7 @@ main {
 }
 
 /* widgets */
+
+.sidebar-widget {
+	border: 1.4rem solid #efefef;
+}
