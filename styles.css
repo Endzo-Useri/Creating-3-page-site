@@ -77,6 +77,11 @@ strong {
 	margin: 2em 0;
 }
 
+.widget-title,
+.widget-recent-post-title {
+	font-size: 1rem;
+}
+
 .widget-title {
 	font-size: 1rem;
 	font-family: "Ubuntu", sans-serif;
@@ -236,4 +241,9 @@ main {
 	border: 1.4rem solid #efefef;
 	margin-bottom: 2em;
 	padding: 1em;
+}
+
+.widget-recent-post {
+	display: flex;
+	flex-direction: column;
 }
