@@ -203,5 +203,11 @@ main {
 		flex-direction: column;
 	}
 
-	.article-image {}
+	.article-image {
+		/* order: -2; */
+	}
+
+	.article-info {
+		/* order: -1; */
+	}
 }
