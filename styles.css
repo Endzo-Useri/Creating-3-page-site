@@ -247,3 +247,7 @@ main {
 	display: flex;
 	flex-direction: column;
 }
+
+.widget-image {
+	order: -1;
+}
