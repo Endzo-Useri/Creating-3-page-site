@@ -204,10 +204,10 @@ main {
 	}
 
 	.article-image {
-		/* order: -2; */
+		order: -2;
 	}
 
 	.article-info {
-		/* order: -1; */
+		order: -1;
 	}
 }
