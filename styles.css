@@ -197,4 +197,11 @@ main {
 	.article-recent-secondary {
 		width: 30%;
 	}
+
+	.article-featured {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.article-image {}
 }
