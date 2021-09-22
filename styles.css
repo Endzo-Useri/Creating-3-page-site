@@ -78,6 +78,7 @@ strong {
 	color: #1792d2;
 	text-decoration: none;
 	font-weight: 700;
+	text-transform: uppercase;
 }
 
 .article-read-more:hover,
