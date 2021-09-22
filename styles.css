@@ -79,6 +79,7 @@ strong {
 	text-decoration: none;
 	font-weight: 700;
 	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
 .article-read-more:hover,
